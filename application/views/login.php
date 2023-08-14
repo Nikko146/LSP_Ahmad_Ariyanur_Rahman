@@ -28,7 +28,7 @@
   <div class="login-box">
     <div class="login-logo">
       <img src="<?php echo base_url(); ?>assets/img/logo_poliban.png">>
-      <span class="text-warning"><b>TPA </b>Aisyah</a></span>
+      <span class="text-warning"><b>SI </b>Surat</a></span>
     </div>
     <!-- /.login-logo -->
     <div class="card">
